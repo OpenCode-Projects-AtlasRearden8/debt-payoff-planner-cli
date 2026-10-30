@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+/calendar.csv
+/tracker.md
+/example_debts.csv
