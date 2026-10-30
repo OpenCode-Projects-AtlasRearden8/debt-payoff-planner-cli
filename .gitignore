@@ -1,6 +1,11 @@
-__pycache__/
 *.pyc
+.env
+.env.*
 .pytest_cache/
+.venv/
 /calendar.csv
-/tracker.md
 /example_debts.csv
+/tracker.md
+__pycache__/
+dist/*.tmp
+node_modules/
